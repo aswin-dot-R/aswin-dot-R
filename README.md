@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-dot-R&label=Profile%20views&color=0e75b6&style=flat" alt="aswin-dot-R" /> </p>
 
 
-- 🔭 I’m currently working as Intern in *Anyware labs*
-
-- 🌱 I’m currently learning *Robotics and Automation*
 
 - 📫 How to reach me *aswinrajan@gmail.com*
 
